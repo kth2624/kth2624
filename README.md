@@ -1,6 +1,6 @@
 ##### 🌱 I’m currently learning
 
-- Javascript & Typescript
+- Javascript & Typescript & C
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kth2624&layout=compact&theme=radical)](https://github.com/kth2624/github-readme-stats)
 - Algorithms with Javascript.
@@ -13,7 +13,7 @@
 ##### 💬 Ask me about
 
 - Bachelor of Software Engineering
-- Tech : React, javascript, , TypescriptnodeJS, MySQL
+- Tech : React, javascript, Typescript, nodeJS, MySQL
 
 ***
 
