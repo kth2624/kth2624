@@ -1,16 +1,28 @@
-### Hi there 👋
+##### 🌱 I’m currently learning
 
-<!--
-**kth2624/kth2624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Javascript & Typescript
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kth2624&layout=compact&theme=radical)](https://github.com/kth2624/github-readme-stats)
+- Algorithms with Javascript.
 
-Here are some ideas to get you started:
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=phila1)](https://solved.ac/phila1)
+- Refactoring method.
+ -->
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 💬 Ask me about
+
+- Bachelor of Software Engineering
+- Tech : React, javascript, , TypescriptnodeJS, MySQL
+
+***
+
+##### 📫 How to reach me
+
+- Email: wpdldkdl77@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kth2624&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+##### 🔭 I’m currently working on
+- private project.
+<!-- - [진행할 프로젝트](https://bubbly-bone-3ef.notion.site/Project-List-4dd52ba970134d778b3182a0c39a0ce7) -->
