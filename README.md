@@ -27,7 +27,7 @@
 
 ##### 📫 How to reach me
 
-- Email: wpdldkdl77@gmail.com
+- Email: dev.tkim42@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kth2624&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
