@@ -1,7 +1,7 @@
 ##### 🌱 I’m currently learning
 
 - Javascript & Typescript & C
-- Minio & KES & KMS
+- Minio & KES & KMS, TS
 - Koa
 - Docekr & Docker-Compose
 <!-- 
