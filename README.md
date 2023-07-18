@@ -37,5 +37,4 @@
 <!-- - [진행할 프로젝트](https://bubbly-bone-3ef.notion.site/Project-List-4dd52ba970134d778b3182a0c39a0ce7) -->
 
 <a href="https://opgc.me/#/users/kth2624" target="_blank"><img src="https://api.opgc.me/githubs/users/kth2624/tag/?theme=basic" /></a>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkth2624&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
