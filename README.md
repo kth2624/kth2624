@@ -2,8 +2,10 @@
 
 - Javascript & Typescript & C
 - Minio & KES & KMS, TS
-- Koa
-- Docekr & Docker-Compose
+- Koa.js
+- Nest.js
+- GraphQL
+- Docker & Docker-Compose
 - MySQL Semi-sync Replication
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kth2624&layout=compact&theme=radical)](https://github.com/kth2624/github-readme-stats)
