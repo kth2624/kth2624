@@ -19,12 +19,7 @@
 ##### 💬 Ask me about
 
 - Bachelor of Software Engineering
-- Tech : React, javascript, Typescript, nodeJS, MySQL
-
-    <img src="https://img.shields.io/badge/node.js-v14.15.1-green?logo=Node.js"/>
-    <img src="https://img.shields.io/badge/JavaScript-deploy-F7DF1E?logo=JavaScript"/>
-    <img src="https://img.shields.io/badge/Express-v4.17.3-green?style=flat&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-v8.0.28-4479A1?logo=MySQL">
+- Tech : Javascript, Typescript, Node.js, Koa.js, Nest.js, MySQL, GraphQL, Docker, Gitlab
 
 ***
 
@@ -32,10 +27,8 @@
 
 - Email: dev.tkim42@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kth2624&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ##### 🔭 I’m currently working on
-- private project.
+- [lifelog](https://github.com/Life-Logs)
 <!-- - [진행할 프로젝트](https://bubbly-bone-3ef.notion.site/Project-List-4dd52ba970134d778b3182a0c39a0ce7) -->
 
 <a href="https://opgc.me/#/users/kth2624" target="_blank"><img src="https://api.opgc.me/githubs/users/kth2624/tag/?theme=basic" /></a>
