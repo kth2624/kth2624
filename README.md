@@ -1,11 +1,9 @@
 ##### 🌱 I’m currently learning
 
-- Javascript & Typescript & C
-- Minio & KES & KMS, TS
-- Koa.js
+- Javascript & Typescript
+- Minio & KES & KMS (Key management system)
 - Nest.js
-- GraphQL
-- Docker & Docker-Compose
+- Docker
 - MySQL Semi-sync Replication
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kth2624&layout=compact&theme=radical)](https://github.com/kth2624/github-readme-stats)
@@ -19,7 +17,7 @@
 ##### 💬 Ask me about
 
 - Bachelor of Software Engineering
-- Tech : Javascript, Typescript, Node.js, Koa.js, Nest.js, MySQL, GraphQL, Docker, Gitlab
+- Tech : Javascript, Typescript, Node.js, Nest.js, MySQL, GraphQL, Docker
 
 ***
 
